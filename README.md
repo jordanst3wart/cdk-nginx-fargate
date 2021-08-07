@@ -20,6 +20,6 @@ set `CDK_DEFAULT_ACCOUNT`, and  `CDK_DEFAULT_REGION` environment variables, and 
 
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk synth` emits the synthesized CloudFormation template
- * `cdk destroy` emits the synthesized CloudFormation template
+ * `cdk destroy` deletes this stack in your default AWS account/region
 
 
